@@ -1,6 +1,7 @@
 # SecureSheapp
 SecureShe is a women safety application.
 
+- Features:
  - Location sharing for real-time updates.
  - Instant notifications for quick alerts.
  - Trusted contacts for emergency support.
