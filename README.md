@@ -1,6 +1,29 @@
 # securesheapp
 
-A new Flutter project.
+
+ Location sharing for real-time updates.
+ Instant notifications for quick alerts.
+ Trusted contacts for emergency support.
+ SOS gestures for immediate assistance.
+ Gender distribution analysis for safety insights.
+ USSD-based system for keypad mobile support.
+ Motion detection to automatically trigger SOS alerts.
+ Community support for collaborative safety efforts
+
+## Feasibility & Viability
+#Location sharing for real-time updates
+  - Easy to implement with GPS.
+  - Essential for real-time tracking, highly practical.
+#Instant notifications for quick alerts
+   - Readily achievable via push notifications.
+   - Critical for timely responses, very viable.
+#Trusted contacts for emergency support
+   - Simple to integrate with contact-sharing features.
+   - Proven effective for personal safety, widely used.
+#SOS gestures for immediate assistance
+   - Achievable with accelerometer and gesture recognition.
+   - Highly effective for quick emergency responses.
+
 
 ## Getting Started
 
