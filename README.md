@@ -2,14 +2,14 @@
 SecureShe is a women safety application.
 
 - Features:
- - Location sharing for real-time updates.
- - Instant notifications for quick alerts.
- - Trusted contacts for emergency support.
- - SOS gestures for immediate assistance.
- - Gender distribution analysis for safety insights.
- - USSD-based system for keypad mobile support.
- - Motion detection to automatically trigger SOS alerts.
- - Community support for collaborative safety efforts
+  - Location sharing for real-time updates.
+  - Instant notifications for quick alerts.
+  - Trusted contacts for emergency support.
+  - SOS gestures for immediate assistance.
+  - Gender distribution analysis for safety insights.
+  - USSD-based system for keypad mobile support.
+  - Motion detection to automatically trigger SOS alerts.
+  - Community support for collaborative safety efforts
 
 # Feasibility & Viability 
 - Location sharing for real-time updates
