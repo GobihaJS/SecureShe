@@ -1,5 +1,5 @@
-# securesheapp
-
+# SecureSheapp
+SecureShe is a women safety application.
 
  Location sharing for real-time updates.
  Instant notifications for quick alerts.
