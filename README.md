@@ -28,11 +28,11 @@ SecureShe is a women safety application.
 ## Demo Screenshots
 
 
-<img src="https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Logo.jpeg" alt="Project Logo" width="300">
-<img src="https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page1.jpeg" alt="Project Logo" width="300">
+<img src="https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Logo.jpeg" alt="Project Logo" align ="left" width="300">
+<img src="https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page1.jpeg" alt="Page 1" align = "right" width="300">
 <img src="https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page2.jpeg" alt="Project Logo" width="300">
 <img src="https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page3.jpeg" alt="Project Logo" width="300">
-<img src="https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page%204.jpeg" alt="Project Logo" width="300">
+<img src="https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page%204.jpg" alt="Project Logo" width="300">
 <img src="https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page%205.jpeg" alt="Project Logo" width="300">
 
 ## Getting Started
