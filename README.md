@@ -26,7 +26,7 @@ SecureShe is a women safety application.
    - Highly effective for quick emergency responses.
 
 ## Demo Screenshots
-<img src="[Demo_screenshots/page1](https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page1.jpeg)" alt="Demo screenshot" width="200">
+![Demo_screenshots/page1](https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page1.jpeg)
 
 
 
