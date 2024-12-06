@@ -27,12 +27,12 @@ SecureShe is a women safety application.
 
 ## Demo Screenshots
 
-<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Logo.jpeg" alt="Project Logo" align ="left" width="300">
+<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Logo.jpeg" alt="Project Logo" align ="Center" width="300">
 <img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page1.jpeg" alt="Page 1" align = "right" width="300">
-<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page2.jpeg" alt="Page 2" width="300">
-<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page3.jpeg" alt="Page 3" align ="left"  width="300">
-<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page%204.jpg" alt="Page 4" align ="right" width="300">
-<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page%205.jpeg" alt="Page 5" width="300">
+<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page2.jpeg" alt="Page 2" align ="left" width="300">
+<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page3.jpeg" alt="Page 3" align ="right"  width="300">
+<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page%204.jpg" alt="Page 4" align ="left" width="300">
+<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page%205.jpeg" alt="Page 5" align ="right" width="300">
 
 ## work flow
 
