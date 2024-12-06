@@ -27,9 +27,8 @@ SecureShe is a women safety application.
 
 ## Demo Screenshots
 
-<img src="[images/logo.png](https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page1.jpeg)" alt="Project Logo" width="300" height="150">
+<img src="https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page1.jpeg" alt="Project Logo" width="300" height="150">
 
-![Demo_screenshots/page1](https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page1.jpeg)
 
 
 
