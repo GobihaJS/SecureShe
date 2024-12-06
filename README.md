@@ -25,6 +25,10 @@ SecureShe is a women safety application.
    - Achievable with accelerometer and gesture recognition.
    - Highly effective for quick emergency responses.
 
+## Demo Screenshots
+<img src="https://drive.google.com/file/d/1bbdlEopj5Vj6pKxzNhC09kvuz7FhsFRr/view?usp=drive_link" alt="Demo screenshot" width="200">
+
+
 
 ## Getting Started
 
