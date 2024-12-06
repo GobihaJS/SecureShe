@@ -36,7 +36,7 @@ SecureShe is a women safety application.
 
 ## work flow
 
-<img src="https://github.com/GobihaJS/SecureShe/blob/main/Demo_screenshots/Page%205.jpeg" alt="Page 5" width="300">
+<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/workflow.png" alt="Page 5" width="300">
 
 ## Getting Started
 
