@@ -26,7 +26,7 @@ SecureShe is a women safety application.
    - Highly effective for quick emergency responses.
 
 ## Demo Screenshots
-<img src="https://drive.google.com/file/d/1bbdlEopj5Vj6pKxzNhC09kvuz7FhsFRr/view?usp=drive_link" alt="Demo screenshot" width="200">
+<img src="https://drive.google.com/file/d/1h8BVH-WS1gJJsrlMmhTUeed_O4vYse4n/view?usp=drive_link" alt="Demo screenshot" width="200">
 
 
 
