@@ -32,7 +32,7 @@ SecureShe is a women safety application.
 <img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page2.jpeg" alt="Page 2" align ="left" width="300">
 <img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page3.jpeg" alt="Page 3" align ="right"  width="300">
 <img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page%204.jpg" alt="Page 4" align ="left" width="300">
-<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page%205.jpeg" alt="Page 5" align ="right" width="300" height="250">
+<img src="https://github.com/GobihaJS/SecureShe/blob/main/images/Page%205.jpeg" alt="Page 5" align ="right" width="300" height="300">
 <img src="https://github.com/GobihaJS/SecureShe/blob/main/images/workflow.png" alt="workflow" width="300">
 
 ## Getting Started
